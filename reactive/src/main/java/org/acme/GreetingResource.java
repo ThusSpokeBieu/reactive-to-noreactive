@@ -5,7 +5,7 @@ import java.util.Set;
 import java.util.concurrent.CompletionStage;
 
 import org.eclipse.microprofile.rest.client.RestClientBuilder;
-import org.jboss.logging.Logger;
+    import org.jboss.logging.Logger;
 
 import jakarta.ws.rs.GET;
 import jakarta.ws.rs.Path;
